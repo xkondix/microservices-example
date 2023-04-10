@@ -34,9 +34,9 @@ build/
 /api-gateway/mvnw
 /api-gateway/mvnw.cmd
 /api-gateway/.mvn/wrapper/maven-wrapper.jar
-/eureka-serwer/.mvn/wrapper/maven-wrapper.jar
-/eureka-serwer/mvnw
-/eureka-serwer/mvnw.cmd
+/eureka-server/.mvn/wrapper/maven-wrapper.jar
+/eureka-server/mvnw
+/eureka-server/mvnw.cmd
 /config-server/mvnw
 /config-server/mvnw.cmd
 /config-server/.mvn/wrapper/maven-wrapper.jar

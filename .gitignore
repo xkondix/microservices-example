@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+/api-gateway/mvnw
+/api-gateway/mvnw.cmd
+/api-gateway/.mvn/wrapper/maven-wrapper.jar
